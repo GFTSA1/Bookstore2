@@ -1,0 +1,164 @@
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\BookStore.exe
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\BookStore.deps.json
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\BookStore.runtimeconfig.json
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\BookStore.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\BookStore.pdb
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Azure.Core.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Azure.Identity.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Humanizer.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.CodeDom.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Memory.Data.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Text.Json.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+D:\Education\Programming\Bookstore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.csproj.AssemblyReference.cache
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.AssemblyInfoInputs.cache
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.AssemblyInfo.cs
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.csproj.CoreCompileInputs.cache
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.csproj.CopyComplete
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.dll
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\refint\BookStore.dll
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.pdb
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\BookStore.genruntimeconfig.cache
+D:\Education\Programming\Bookstore\BookStore\obj\Debug\net7.0\ref\BookStore.dll
+D:\Education\Programming\Bookstore\Bookstore\bin\Debug\net7.0\Castle.Core.dll
+D:\Education\Programming\Bookstore\Bookstore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+D:\Education\Programming\Bookstore\Bookstore\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+D:\Education\Programming\Bookstore\Bookstore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+D:\Education\Programming\Bookstore\Bookstore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\BookStore.exe
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\BookStore.deps.json
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\BookStore.runtimeconfig.json
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\BookStore.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\BookStore.pdb
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Castle.Core.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Humanizer.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Proxies.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Logging.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Options.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Extensions.Primitives.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Diagnostics.EventLog.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Text.Encodings.Web.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Text.Json.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.Messages.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Diagnostics.EventLog.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\browser\lib\net7.0\System.Text.Encodings.Web.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.csproj.AssemblyReference.cache
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.AssemblyInfoInputs.cache
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.AssemblyInfo.cs
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.csproj.CoreCompileInputs.cache
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.csproj.CopyComplete
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\refint\BookStore.dll
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.pdb
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\BookStore.genruntimeconfig.cache
+C:\Users\fixpg\OneDrive\Рабочий стол\BookStore\BookStore\obj\Debug\net7.0\ref\BookStore.dll
